@@ -1,0 +1,2 @@
+mdp mogenius : polytech-23
+miniflux pour la bdd
